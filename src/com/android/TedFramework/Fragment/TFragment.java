@@ -7,4 +7,9 @@ import android.support.v4.app.Fragment;
  */
 public class TFragment extends Fragment {
 
+
+
+    public String getTString(int id){
+         return getActivity().getResources().getString(id);
+    }
 }
