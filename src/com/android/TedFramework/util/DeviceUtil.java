@@ -230,6 +230,7 @@ public class DeviceUtil {
     public static int getAcailableScreenHeight() {
         return nScreentHeight - nStatusbarHeight;
     }
+
     public static int getPixelFromDip(Context context, float dip) {
         return getPixelFromDip(context.getResources().getDisplayMetrics(), dip);
     }
