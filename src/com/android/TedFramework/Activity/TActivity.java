@@ -11,12 +11,12 @@ import android.view.WindowManager;
  */
 public class TActivity extends FragmentActivity{
 
-    public static int getPxFromDp(Context context, float paramFloat)
+    public int getPxFromDp(Context context, float paramFloat)
     {
         return (int)(0.5F + paramFloat * getDipUnit(context));
     }
 
-    public static DisplayMetrics getDM(Context context)
+    public  DisplayMetrics getDM(Context context)
     {
         Display localDisplay = ((WindowManager)context.getSystemService(Context.WINDOW_SERVICE)).getDefaultDisplay();
         DisplayMetrics localDisplayMetrics = new DisplayMetrics();
@@ -24,18 +24,18 @@ public class TActivity extends FragmentActivity{
         return localDisplayMetrics;
     }
 
-    public static int getWidth(Context context)
+    public int getWidth(Context context)
     {
         return getDM(context).widthPixels;
     }
 
-    public static int getHeight(Context context)
+    public int getHeight(Context context)
     {
         return getDM(context).heightPixels;
     }
 
 
-    public static float getDipUnit(Context context)
+    public float getDipUnit(Context context)
     {
         return getDM(context).densityDpi / 160.0F;
     }
