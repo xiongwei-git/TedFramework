@@ -7,7 +7,7 @@ import android.view.Display;
 import android.view.WindowManager;
 
 /**
- * Created by Ted on 14-8-6.
+ * Created by Ted on 14-8-6.Ö÷Àà
  */
 public class TActivity extends FragmentActivity{
 
