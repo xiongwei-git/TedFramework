@@ -1,4 +1,4 @@
-package com.android.TedFramework.Activity;
+package com.android.tedframework.Activity;
 
 import android.content.Context;
 import android.support.v4.app.FragmentActivity;

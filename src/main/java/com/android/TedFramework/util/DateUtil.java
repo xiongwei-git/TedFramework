@@ -1,4 +1,4 @@
-package com.android.TedFramework.util;
+package com.android.tedframework.Util;
 
 import java.text.SimpleDateFormat;
 import java.util.Calendar;

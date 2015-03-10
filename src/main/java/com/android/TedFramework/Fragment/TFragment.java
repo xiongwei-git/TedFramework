@@ -1,4 +1,4 @@
-package com.android.TedFramework.Fragment;
+package com.android.tedframework.Fragment;
 
 import android.support.v4.app.Fragment;
 

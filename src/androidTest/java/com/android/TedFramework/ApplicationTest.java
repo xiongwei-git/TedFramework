@@ -1,4 +1,4 @@
-package com.android.TedFramework;
+package com.android.tedframework;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

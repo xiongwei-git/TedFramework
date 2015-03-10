@@ -1,4 +1,4 @@
-package com.android.TedFramework.util;
+package com.android.tedframework.Util;
 
 /**
  * Created by w_xiong on 2014/9/5.

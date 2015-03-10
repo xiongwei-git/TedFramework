@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.android.TedFramework;
+package com.android.tedframework;
 
 public final class R {
     public static final class anim {
@@ -1391,8 +1391,7 @@ containing a value of this type.
         public static int abc_search_dropdown_item_icons_2line=0x7f030014;
         public static int abc_search_view=0x7f030015;
         public static int abc_simple_dropdown_hint=0x7f030016;
-        public static int main=0x7f030017;
-        public static int support_simple_spinner_dropdown_item=0x7f030018;
+        public static int support_simple_spinner_dropdown_item=0x7f030017;
     }
     public static final class string {
         public static int abc_action_bar_home_description=0x7f0a0000;
@@ -1657,33 +1656,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.android.TedFramework:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.android.TedFramework:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.android.TedFramework:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.android.TedFramework:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.android.TedFramework:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.android.TedFramework:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.android.TedFramework:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.android.TedFramework:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.android.TedFramework:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.android.TedFramework:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.android.TedFramework:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.android.TedFramework:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.android.TedFramework:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.android.TedFramework:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.android.TedFramework:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.android.TedFramework:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.android.TedFramework:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.android.TedFramework:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.android.TedFramework:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.android.TedFramework:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.android.TedFramework:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.android.TedFramework:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.android.TedFramework:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.android.TedFramework:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.android.TedFramework:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.android.TedFramework:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.android.TedFramework:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.android.tedframework:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.android.tedframework:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.android.tedframework:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.android.tedframework:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.android.tedframework:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.android.tedframework:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.android.tedframework:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.android.tedframework:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.android.tedframework:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.android.tedframework:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.android.tedframework:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.android.tedframework:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.android.tedframework:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.android.tedframework:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.android.tedframework:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.android.tedframework:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.android.tedframework:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.android.tedframework:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.android.tedframework:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.android.tedframework:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.android.tedframework:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.android.tedframework:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.android.tedframework:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.android.tedframework:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.android.tedframework:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.android.tedframework:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.android.tedframework:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -1723,17 +1722,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f010071
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#background}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:background
+          @attr name com.android.tedframework:background
         */
         public static int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1741,11 +1740,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.TedFramework:backgroundSplit
+          @attr name com.android.tedframework:backgroundSplit
         */
         public static int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1753,11 +1752,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.TedFramework:backgroundStacked
+          @attr name com.android.tedframework:backgroundStacked
         */
         public static int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1769,11 +1768,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:contentInsetEnd
+          @attr name com.android.tedframework:contentInsetEnd
         */
         public static int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1785,11 +1784,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:contentInsetLeft
+          @attr name com.android.tedframework:contentInsetLeft
         */
         public static int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1801,11 +1800,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:contentInsetRight
+          @attr name com.android.tedframework:contentInsetRight
         */
         public static int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1817,21 +1816,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:contentInsetStart
+          @attr name com.android.tedframework:contentInsetStart
         */
         public static int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:customNavigationLayout
+          @attr name com.android.tedframework:customNavigationLayout
         */
         public static int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1849,21 +1848,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.android.TedFramework:displayOptions
+          @attr name com.android.tedframework:displayOptions
         */
         public static int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:divider
+          @attr name com.android.tedframework:divider
         */
         public static int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1875,11 +1874,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:elevation
+          @attr name com.android.tedframework:elevation
         */
         public static int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#height}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1891,11 +1890,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:height
+          @attr name com.android.tedframework:height
         */
         public static int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1905,51 +1904,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:hideOnContentScroll
+          @attr name com.android.tedframework:hideOnContentScroll
         */
         public static int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:homeAsUpIndicator
+          @attr name com.android.tedframework:homeAsUpIndicator
         */
         public static int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:homeLayout
+          @attr name com.android.tedframework:homeLayout
         */
         public static int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:icon
+          @attr name com.android.tedframework:icon
         */
         public static int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:indeterminateProgressStyle
+          @attr name com.android.tedframework:indeterminateProgressStyle
         */
         public static int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1961,21 +1960,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:itemPadding
+          @attr name com.android.tedframework:itemPadding
         */
         public static int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:logo
+          @attr name com.android.tedframework:logo
         */
         public static int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -1989,21 +1988,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.android.TedFramework:navigationMode
+          @attr name com.android.tedframework:navigationMode
         */
         public static int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:popupTheme
+          @attr name com.android.tedframework:popupTheme
         */
         public static int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2015,21 +2014,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:progressBarPadding
+          @attr name com.android.tedframework:progressBarPadding
         */
         public static int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:progressBarStyle
+          @attr name com.android.tedframework:progressBarStyle
         */
         public static int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2039,21 +2038,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:subtitle
+          @attr name com.android.tedframework:subtitle
         */
         public static int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:subtitleTextStyle
+          @attr name com.android.tedframework:subtitleTextStyle
         */
         public static int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#title}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2063,17 +2062,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:title
+          @attr name com.android.tedframework:title
         */
         public static int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:titleTextStyle
+          @attr name com.android.tedframework:titleTextStyle
         */
         public static int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2125,12 +2124,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.android.TedFramework:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.android.TedFramework:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.android.TedFramework:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.android.TedFramework:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.android.TedFramework:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.android.TedFramework:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.android.tedframework:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.android.tedframework:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.android.tedframework:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.android.tedframework:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.android.tedframework:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.android.tedframework:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2144,17 +2143,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#background}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:background
+          @attr name com.android.tedframework:background
         */
         public static int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2162,21 +2161,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.TedFramework:backgroundSplit
+          @attr name com.android.tedframework:backgroundSplit
         */
         public static int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:closeItemLayout
+          @attr name com.android.tedframework:closeItemLayout
         */
         public static int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#height}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2188,27 +2187,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:height
+          @attr name com.android.tedframework:height
         */
         public static int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:subtitleTextStyle
+          @attr name com.android.tedframework:subtitleTextStyle
         */
         public static int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:titleTextStyle
+          @attr name com.android.tedframework:titleTextStyle
         */
         public static int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2217,8 +2216,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.android.TedFramework:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.android.TedFramework:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.android.tedframework:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.android.tedframework:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2227,17 +2226,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:expandActivityOverflowButtonDrawable
+          @attr name com.android.tedframework:expandActivityOverflowButtonDrawable
         */
         public static int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2247,7 +2246,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:initialActivityCount
+          @attr name com.android.tedframework:initialActivityCount
         */
         public static int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a CompatTextView.
@@ -2256,7 +2255,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #CompatTextView_textAllCaps com.android.TedFramework:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompatTextView_textAllCaps com.android.tedframework:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #CompatTextView_textAllCaps
          */
@@ -2264,14 +2263,14 @@ containing a value of this type.
             0x7f01001f
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#textAllCaps}
           attribute's value can be found in the {@link #CompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.android.TedFramework:textAllCaps
+          @attr name com.android.tedframework:textAllCaps
         */
         public static int CompatTextView_textAllCaps = 0;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -2280,14 +2279,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barSize com.android.TedFramework:barSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.android.TedFramework:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.android.TedFramework:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.android.TedFramework:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.android.TedFramework:middleBarArrowSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.android.TedFramework:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.android.TedFramework:thickness}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.android.TedFramework:topBottomBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barSize com.android.tedframework:barSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.android.tedframework:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.android.tedframework:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.android.tedframework:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_middleBarArrowSize com.android.tedframework:middleBarArrowSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.android.tedframework:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.android.tedframework:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_topBottomBarArrowSize com.android.tedframework:topBottomBarArrowSize}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_barSize
            @see #DrawerArrowToggle_color
@@ -2303,7 +2302,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010024, 0x7f010025, 0x7f010026, 0x7f010027
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#barSize}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#barSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2315,11 +2314,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:barSize
+          @attr name com.android.tedframework:barSize
         */
         public static int DrawerArrowToggle_barSize = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#color}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2330,11 +2329,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:color
+          @attr name com.android.tedframework:color
         */
         public static int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2346,11 +2345,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:drawableSize
+          @attr name com.android.tedframework:drawableSize
         */
         public static int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2362,11 +2361,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:gapBetweenBars
+          @attr name com.android.tedframework:gapBetweenBars
         */
         public static int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#middleBarArrowSize}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#middleBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2378,11 +2377,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:middleBarArrowSize
+          @attr name com.android.tedframework:middleBarArrowSize
         */
         public static int DrawerArrowToggle_middleBarArrowSize = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2392,11 +2391,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:spinBars
+          @attr name com.android.tedframework:spinBars
         */
         public static int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2408,11 +2407,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:thickness
+          @attr name com.android.tedframework:thickness
         */
         public static int DrawerArrowToggle_thickness = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#topBottomBarArrowSize}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#topBottomBarArrowSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -2424,7 +2423,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:topBottomBarArrowSize
+          @attr name com.android.tedframework:topBottomBarArrowSize
         */
         public static int DrawerArrowToggle_topBottomBarArrowSize = 4;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -2438,10 +2437,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.android.TedFramework:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.android.TedFramework:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.android.TedFramework:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.android.TedFramework:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.android.tedframework:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.android.tedframework:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.android.tedframework:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.android.tedframework:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -2489,17 +2488,17 @@ containing a value of this type.
         */
         public static int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:divider
+          @attr name com.android.tedframework:divider
         */
         public static int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2511,11 +2510,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:dividerPadding
+          @attr name com.android.tedframework:dividerPadding
         */
         public static int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2525,11 +2524,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:measureWithLargestChild
+          @attr name com.android.tedframework:measureWithLargestChild
         */
         public static int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -2544,7 +2543,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.android.TedFramework:showDividers
+          @attr name com.android.tedframework:showDividers
         */
         public static int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -2683,9 +2682,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.android.TedFramework:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.android.TedFramework:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.android.TedFramework:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.android.tedframework:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.android.tedframework:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.android.tedframework:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -2699,7 +2698,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.android.TedFramework:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.android.tedframework:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -2727,17 +2726,17 @@ containing a value of this type.
             0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionLayout
+          @attr name com.android.tedframework:actionLayout
         */
         public static int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2747,11 +2746,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:actionProviderClass
+          @attr name com.android.tedframework:actionProviderClass
         */
         public static int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2761,7 +2760,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:actionViewClass
+          @attr name com.android.tedframework:actionViewClass
         */
         public static int MenuItem_actionViewClass = 15;
         /**
@@ -2843,7 +2842,7 @@ containing a value of this type.
         */
         public static int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -2859,7 +2858,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.android.TedFramework:showAsAction
+          @attr name com.android.tedframework:showAsAction
         */
         public static int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -2875,7 +2874,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.android.TedFramework:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.android.tedframework:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -2933,7 +2932,7 @@ containing a value of this type.
         */
         public static int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -2943,7 +2942,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:preserveIconSpacing
+          @attr name com.android.tedframework:preserveIconSpacing
         */
         public static int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -2953,7 +2952,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.android.TedFramework:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.android.tedframework:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -2968,7 +2967,7 @@ containing a value of this type.
         */
         public static int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -2978,7 +2977,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:overlapAnchor
+          @attr name com.android.tedframework:overlapAnchor
         */
         public static int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -2987,7 +2986,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.android.TedFramework:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.android.tedframework:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -2995,7 +2994,7 @@ containing a value of this type.
             0x7f010031
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -3005,7 +3004,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:state_above_anchor
+          @attr name com.android.tedframework:state_above_anchor
         */
         public static int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -3018,17 +3017,17 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.android.TedFramework:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.android.TedFramework:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.android.TedFramework:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.android.TedFramework:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.android.TedFramework:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.android.TedFramework:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.android.TedFramework:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.android.TedFramework:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.android.TedFramework:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.android.TedFramework:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.android.TedFramework:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.android.tedframework:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.android.tedframework:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.android.tedframework:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.android.tedframework:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.android.tedframework:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.android.tedframework:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.android.tedframework:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.android.tedframework:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.android.tedframework:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.android.tedframework:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.android.tedframework:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -3077,37 +3076,37 @@ containing a value of this type.
         */
         public static int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:closeIcon
+          @attr name com.android.tedframework:closeIcon
         */
         public static int SearchView_closeIcon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:commitIcon
+          @attr name com.android.tedframework:commitIcon
         */
         public static int SearchView_commitIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:goIcon
+          @attr name com.android.tedframework:goIcon
         */
         public static int SearchView_goIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3117,31 +3116,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:iconifiedByDefault
+          @attr name com.android.tedframework:iconifiedByDefault
         */
         public static int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:layout
+          @attr name com.android.tedframework:layout
         */
         public static int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:queryBackground
+          @attr name com.android.tedframework:queryBackground
         */
         public static int SearchView_queryBackground = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -3151,47 +3150,47 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:queryHint
+          @attr name com.android.tedframework:queryHint
         */
         public static int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:searchIcon
+          @attr name com.android.tedframework:searchIcon
         */
         public static int SearchView_searchIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:submitBackground
+          @attr name com.android.tedframework:submitBackground
         */
         public static int SearchView_submitBackground = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:suggestionRowLayout
+          @attr name com.android.tedframework:suggestionRowLayout
         */
         public static int SearchView_suggestionRowLayout = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:voiceIcon
+          @attr name com.android.tedframework:voiceIcon
         */
         public static int SearchView_voiceIcon = 10;
         /** Attributes that can be used with a Spinner.
@@ -3207,10 +3206,10 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.android.TedFramework:disableChildrenWhenDisabled}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupPromptView com.android.TedFramework:popupPromptView}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_prompt com.android.TedFramework:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_spinnerMode com.android.TedFramework:spinnerMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_disableChildrenWhenDisabled com.android.tedframework:disableChildrenWhenDisabled}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupPromptView com.android.tedframework:popupPromptView}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_prompt com.android.tedframework:prompt}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_spinnerMode com.android.tedframework:spinnerMode}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_background
            @see #Spinner_android_dropDownHorizontalOffset
@@ -3272,7 +3271,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int Spinner_android_popupBackground = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#disableChildrenWhenDisabled}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#disableChildrenWhenDisabled}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -3282,31 +3281,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:disableChildrenWhenDisabled
+          @attr name com.android.tedframework:disableChildrenWhenDisabled
         */
         public static int Spinner_disableChildrenWhenDisabled = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#popupPromptView}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#popupPromptView}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:popupPromptView
+          @attr name com.android.tedframework:popupPromptView
         */
         public static int Spinner_popupPromptView = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#prompt}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#prompt}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:prompt
+          @attr name com.android.tedframework:prompt
         */
         public static int Spinner_prompt = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#spinnerMode}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#spinnerMode}
           attribute's value can be found in the {@link #Spinner} array.
 
 
@@ -3319,7 +3318,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>dialog</code></td><td>0</td><td></td></tr>
 <tr><td><code>dropdown</code></td><td>1</td><td></td></tr>
 </table>
-          @attr name com.android.TedFramework:spinnerMode
+          @attr name com.android.tedframework:spinnerMode
         */
         public static int Spinner_spinnerMode = 8;
         /** Attributes that can be used with a SwitchCompat.
@@ -3331,13 +3330,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.android.TedFramework:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.android.TedFramework:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.android.TedFramework:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.android.TedFramework:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.android.TedFramework:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.android.TedFramework:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.android.TedFramework:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.android.tedframework:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.android.tedframework:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.android.tedframework:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.android.tedframework:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.android.tedframework:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.android.tedframework:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.android.tedframework:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -3374,7 +3373,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3384,11 +3383,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:showText
+          @attr name com.android.tedframework:showText
         */
         public static int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3398,11 +3397,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:splitTrack
+          @attr name com.android.tedframework:splitTrack
         */
         public static int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3414,11 +3413,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:switchMinWidth
+          @attr name com.android.tedframework:switchMinWidth
         */
         public static int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3430,21 +3429,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:switchPadding
+          @attr name com.android.tedframework:switchPadding
         */
         public static int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:switchTextAppearance
+          @attr name com.android.tedframework:switchTextAppearance
         */
         public static int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -3456,17 +3455,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:thumbTextPadding
+          @attr name com.android.tedframework:thumbTextPadding
         */
         public static int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#track}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:track
+          @attr name com.android.tedframework:track
         */
         public static int SwitchCompat_track = 3;
         /** Attributes that can be used with a Theme.
@@ -3475,89 +3474,89 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.android.TedFramework:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.android.TedFramework:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.android.TedFramework:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.android.TedFramework:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.android.TedFramework:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.android.TedFramework:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.android.TedFramework:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.android.TedFramework:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.android.TedFramework:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.android.TedFramework:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.android.TedFramework:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.android.TedFramework:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.android.TedFramework:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.android.TedFramework:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.android.TedFramework:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.android.TedFramework:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.android.TedFramework:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.android.TedFramework:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.android.TedFramework:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.android.TedFramework:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.android.TedFramework:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.android.TedFramework:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.android.TedFramework:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.android.TedFramework:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.android.TedFramework:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.android.TedFramework:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.android.TedFramework:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.android.TedFramework:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.android.TedFramework:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.android.TedFramework:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.android.TedFramework:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider com.android.tedframework:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.android.tedframework:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.android.tedframework:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize com.android.tedframework:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.android.tedframework:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.android.tedframework:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.android.tedframework:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.android.tedframework:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.android.tedframework:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.android.tedframework:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.android.tedframework:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle com.android.tedframework:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.android.tedframework:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.android.tedframework:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.android.tedframework:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.android.tedframework:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.android.tedframework:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.android.tedframework:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.android.tedframework:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.android.tedframework:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.android.tedframework:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.android.tedframework:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.android.tedframework:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.android.tedframework:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.android.tedframework:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.android.tedframework:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.android.tedframework:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.android.tedframework:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.android.tedframework:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.android.tedframework:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.android.tedframework:activityChooserViewStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.android.TedFramework:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.android.TedFramework:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.android.TedFramework:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.android.TedFramework:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.android.TedFramework:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.android.TedFramework:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.android.TedFramework:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.android.TedFramework:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.android.TedFramework:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.android.TedFramework:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.android.TedFramework:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.android.TedFramework:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.android.TedFramework:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.android.TedFramework:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.android.TedFramework:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.android.TedFramework:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.android.TedFramework:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.android.TedFramework:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.android.TedFramework:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.android.TedFramework:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.android.TedFramework:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.android.TedFramework:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.android.TedFramework:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.android.TedFramework:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.android.TedFramework:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.android.TedFramework:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.android.TedFramework:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.android.TedFramework:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.android.TedFramework:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.android.TedFramework:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.android.TedFramework:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.android.TedFramework:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.android.TedFramework:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.android.TedFramework:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.android.TedFramework:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.android.TedFramework:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.android.TedFramework:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.android.TedFramework:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.android.TedFramework:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.android.TedFramework:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.android.TedFramework:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.android.TedFramework:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.android.TedFramework:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.android.TedFramework:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.android.TedFramework:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.android.TedFramework:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.android.TedFramework:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.android.TedFramework:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.android.TedFramework:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.android.TedFramework:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.android.TedFramework:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.android.tedframework:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.android.tedframework:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.android.tedframework:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.android.tedframework:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.android.tedframework:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.android.tedframework:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.android.tedframework:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.android.tedframework:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.android.tedframework:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.android.tedframework:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.android.tedframework:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.android.tedframework:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.android.tedframework:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.android.tedframework:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.android.tedframework:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.android.tedframework:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.android.tedframework:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.android.tedframework:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.android.tedframework:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.android.tedframework:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.android.tedframework:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.android.tedframework:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.android.tedframework:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.android.tedframework:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.android.tedframework:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.android.tedframework:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.android.tedframework:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.android.tedframework:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.android.tedframework:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.android.tedframework:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.android.tedframework:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.android.tedframework:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.android.tedframework:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.android.tedframework:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.android.tedframework:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.android.tedframework:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.android.tedframework:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.android.tedframework:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.android.tedframework:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.android.tedframework:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.android.tedframework:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.android.tedframework:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.android.tedframework:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.android.tedframework:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.android.tedframework:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.android.tedframework:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.android.tedframework:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.android.tedframework:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.android.tedframework:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.android.tedframework:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.android.tedframework:windowFixedWidthMinor}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -3667,37 +3666,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f010097, 0x7f010098, 0x7f010099
         };
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarDivider
+          @attr name com.android.tedframework:actionBarDivider
         */
         public static int Theme_actionBarDivider = 19;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarItemBackground
+          @attr name com.android.tedframework:actionBarItemBackground
         */
         public static int Theme_actionBarItemBackground = 20;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarPopupTheme
+          @attr name com.android.tedframework:actionBarPopupTheme
         */
         public static int Theme_actionBarPopupTheme = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -3717,111 +3716,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.android.TedFramework:actionBarSize
+          @attr name com.android.tedframework:actionBarSize
         */
         public static int Theme_actionBarSize = 18;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarSplitStyle
+          @attr name com.android.tedframework:actionBarSplitStyle
         */
         public static int Theme_actionBarSplitStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarStyle
+          @attr name com.android.tedframework:actionBarStyle
         */
         public static int Theme_actionBarStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarTabBarStyle
+          @attr name com.android.tedframework:actionBarTabBarStyle
         */
         public static int Theme_actionBarTabBarStyle = 9;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarTabStyle
+          @attr name com.android.tedframework:actionBarTabStyle
         */
         public static int Theme_actionBarTabStyle = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarTabTextStyle
+          @attr name com.android.tedframework:actionBarTabTextStyle
         */
         public static int Theme_actionBarTabTextStyle = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarTheme
+          @attr name com.android.tedframework:actionBarTheme
         */
         public static int Theme_actionBarTheme = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionBarWidgetTheme
+          @attr name com.android.tedframework:actionBarWidgetTheme
         */
         public static int Theme_actionBarWidgetTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionButtonStyle
+          @attr name com.android.tedframework:actionButtonStyle
         */
         public static int Theme_actionButtonStyle = 43;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionDropDownStyle
+          @attr name com.android.tedframework:actionDropDownStyle
         */
         public static int Theme_actionDropDownStyle = 38;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionMenuTextAppearance
+          @attr name com.android.tedframework:actionMenuTextAppearance
         */
         public static int Theme_actionMenuTextAppearance = 21;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -3829,167 +3828,167 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.TedFramework:actionMenuTextColor
+          @attr name com.android.tedframework:actionMenuTextColor
         */
         public static int Theme_actionMenuTextColor = 22;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeBackground
+          @attr name com.android.tedframework:actionModeBackground
         */
         public static int Theme_actionModeBackground = 25;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeCloseButtonStyle
+          @attr name com.android.tedframework:actionModeCloseButtonStyle
         */
         public static int Theme_actionModeCloseButtonStyle = 24;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeCloseDrawable
+          @attr name com.android.tedframework:actionModeCloseDrawable
         */
         public static int Theme_actionModeCloseDrawable = 27;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeCopyDrawable
+          @attr name com.android.tedframework:actionModeCopyDrawable
         */
         public static int Theme_actionModeCopyDrawable = 29;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeCutDrawable
+          @attr name com.android.tedframework:actionModeCutDrawable
         */
         public static int Theme_actionModeCutDrawable = 28;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeFindDrawable
+          @attr name com.android.tedframework:actionModeFindDrawable
         */
         public static int Theme_actionModeFindDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModePasteDrawable
+          @attr name com.android.tedframework:actionModePasteDrawable
         */
         public static int Theme_actionModePasteDrawable = 30;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModePopupWindowStyle
+          @attr name com.android.tedframework:actionModePopupWindowStyle
         */
         public static int Theme_actionModePopupWindowStyle = 35;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeSelectAllDrawable
+          @attr name com.android.tedframework:actionModeSelectAllDrawable
         */
         public static int Theme_actionModeSelectAllDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeShareDrawable
+          @attr name com.android.tedframework:actionModeShareDrawable
         */
         public static int Theme_actionModeShareDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeSplitBackground
+          @attr name com.android.tedframework:actionModeSplitBackground
         */
         public static int Theme_actionModeSplitBackground = 26;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeStyle
+          @attr name com.android.tedframework:actionModeStyle
         */
         public static int Theme_actionModeStyle = 23;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionModeWebSearchDrawable
+          @attr name com.android.tedframework:actionModeWebSearchDrawable
         */
         public static int Theme_actionModeWebSearchDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionOverflowButtonStyle
+          @attr name com.android.tedframework:actionOverflowButtonStyle
         */
         public static int Theme_actionOverflowButtonStyle = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:actionOverflowMenuStyle
+          @attr name com.android.tedframework:actionOverflowMenuStyle
         */
         public static int Theme_actionOverflowMenuStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:activityChooserViewStyle
+          @attr name com.android.tedframework:activityChooserViewStyle
         */
         public static int Theme_activityChooserViewStyle = 50;
         /**
@@ -3999,27 +3998,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:buttonBarButtonStyle
+          @attr name com.android.tedframework:buttonBarButtonStyle
         */
         public static int Theme_buttonBarButtonStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:buttonBarStyle
+          @attr name com.android.tedframework:buttonBarStyle
         */
         public static int Theme_buttonBarStyle = 44;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4030,11 +4029,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:colorAccent
+          @attr name com.android.tedframework:colorAccent
         */
         public static int Theme_colorAccent = 77;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4045,11 +4044,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:colorButtonNormal
+          @attr name com.android.tedframework:colorButtonNormal
         */
         public static int Theme_colorButtonNormal = 81;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4060,11 +4059,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:colorControlActivated
+          @attr name com.android.tedframework:colorControlActivated
         */
         public static int Theme_colorControlActivated = 79;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4075,11 +4074,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:colorControlHighlight
+          @attr name com.android.tedframework:colorControlHighlight
         */
         public static int Theme_colorControlHighlight = 80;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4090,11 +4089,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:colorControlNormal
+          @attr name com.android.tedframework:colorControlNormal
         */
         public static int Theme_colorControlNormal = 78;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4105,11 +4104,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:colorPrimary
+          @attr name com.android.tedframework:colorPrimary
         */
         public static int Theme_colorPrimary = 75;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4120,11 +4119,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:colorPrimaryDark
+          @attr name com.android.tedframework:colorPrimaryDark
         */
         public static int Theme_colorPrimaryDark = 76;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4135,41 +4134,41 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:colorSwitchThumbNormal
+          @attr name com.android.tedframework:colorSwitchThumbNormal
         */
         public static int Theme_colorSwitchThumbNormal = 82;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:dividerHorizontal
+          @attr name com.android.tedframework:dividerHorizontal
         */
         public static int Theme_dividerHorizontal = 49;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:dividerVertical
+          @attr name com.android.tedframework:dividerVertical
         */
         public static int Theme_dividerVertical = 48;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:dropDownListViewStyle
+          @attr name com.android.tedframework:dropDownListViewStyle
         */
         public static int Theme_dropDownListViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4181,21 +4180,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:dropdownListPreferredItemHeight
+          @attr name com.android.tedframework:dropdownListPreferredItemHeight
         */
         public static int Theme_dropdownListPreferredItemHeight = 39;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:editTextBackground
+          @attr name com.android.tedframework:editTextBackground
         */
         public static int Theme_editTextBackground = 56;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4203,41 +4202,41 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.TedFramework:editTextColor
+          @attr name com.android.tedframework:editTextColor
         */
         public static int Theme_editTextColor = 55;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:homeAsUpIndicator
+          @attr name com.android.tedframework:homeAsUpIndicator
         */
         public static int Theme_homeAsUpIndicator = 42;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:listChoiceBackgroundIndicator
+          @attr name com.android.tedframework:listChoiceBackgroundIndicator
         */
         public static int Theme_listChoiceBackgroundIndicator = 74;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:listPopupWindowStyle
+          @attr name com.android.tedframework:listPopupWindowStyle
         */
         public static int Theme_listPopupWindowStyle = 68;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4249,11 +4248,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:listPreferredItemHeight
+          @attr name com.android.tedframework:listPreferredItemHeight
         */
         public static int Theme_listPreferredItemHeight = 62;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4265,11 +4264,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:listPreferredItemHeightLarge
+          @attr name com.android.tedframework:listPreferredItemHeightLarge
         */
         public static int Theme_listPreferredItemHeightLarge = 64;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4281,11 +4280,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:listPreferredItemHeightSmall
+          @attr name com.android.tedframework:listPreferredItemHeightSmall
         */
         public static int Theme_listPreferredItemHeightSmall = 63;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4297,11 +4296,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:listPreferredItemPaddingLeft
+          @attr name com.android.tedframework:listPreferredItemPaddingLeft
         */
         public static int Theme_listPreferredItemPaddingLeft = 65;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4313,31 +4312,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:listPreferredItemPaddingRight
+          @attr name com.android.tedframework:listPreferredItemPaddingRight
         */
         public static int Theme_listPreferredItemPaddingRight = 66;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:panelBackground
+          @attr name com.android.tedframework:panelBackground
         */
         public static int Theme_panelBackground = 71;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:panelMenuListTheme
+          @attr name com.android.tedframework:panelMenuListTheme
         */
         public static int Theme_panelMenuListTheme = 73;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4349,151 +4348,151 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:panelMenuListWidth
+          @attr name com.android.tedframework:panelMenuListWidth
         */
         public static int Theme_panelMenuListWidth = 72;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:popupMenuStyle
+          @attr name com.android.tedframework:popupMenuStyle
         */
         public static int Theme_popupMenuStyle = 53;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:popupWindowStyle
+          @attr name com.android.tedframework:popupWindowStyle
         */
         public static int Theme_popupWindowStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:searchViewStyle
+          @attr name com.android.tedframework:searchViewStyle
         */
         public static int Theme_searchViewStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:selectableItemBackground
+          @attr name com.android.tedframework:selectableItemBackground
         */
         public static int Theme_selectableItemBackground = 46;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:selectableItemBackgroundBorderless
+          @attr name com.android.tedframework:selectableItemBackgroundBorderless
         */
         public static int Theme_selectableItemBackgroundBorderless = 47;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:spinnerDropDownItemStyle
+          @attr name com.android.tedframework:spinnerDropDownItemStyle
         */
         public static int Theme_spinnerDropDownItemStyle = 41;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:spinnerStyle
+          @attr name com.android.tedframework:spinnerStyle
         */
         public static int Theme_spinnerStyle = 40;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:switchStyle
+          @attr name com.android.tedframework:switchStyle
         */
         public static int Theme_switchStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:textAppearanceLargePopupMenu
+          @attr name com.android.tedframework:textAppearanceLargePopupMenu
         */
         public static int Theme_textAppearanceLargePopupMenu = 36;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:textAppearanceListItem
+          @attr name com.android.tedframework:textAppearanceListItem
         */
         public static int Theme_textAppearanceListItem = 69;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:textAppearanceListItemSmall
+          @attr name com.android.tedframework:textAppearanceListItemSmall
         */
         public static int Theme_textAppearanceListItemSmall = 70;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:textAppearanceSearchResultSubtitle
+          @attr name com.android.tedframework:textAppearanceSearchResultSubtitle
         */
         public static int Theme_textAppearanceSearchResultSubtitle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:textAppearanceSearchResultTitle
+          @attr name com.android.tedframework:textAppearanceSearchResultTitle
         */
         public static int Theme_textAppearanceSearchResultTitle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:textAppearanceSmallPopupMenu
+          @attr name com.android.tedframework:textAppearanceSmallPopupMenu
         */
         public static int Theme_textAppearanceSmallPopupMenu = 37;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4501,31 +4500,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.android.TedFramework:textColorSearchUrl
+          @attr name com.android.tedframework:textColorSearchUrl
         */
         public static int Theme_textColorSearchUrl = 60;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:toolbarNavigationButtonStyle
+          @attr name com.android.tedframework:toolbarNavigationButtonStyle
         */
         public static int Theme_toolbarNavigationButtonStyle = 52;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:toolbarStyle
+          @attr name com.android.tedframework:toolbarStyle
         */
         public static int Theme_toolbarStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4535,11 +4534,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:windowActionBar
+          @attr name com.android.tedframework:windowActionBar
         */
         public static int Theme_windowActionBar = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4549,11 +4548,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:windowActionBarOverlay
+          @attr name com.android.tedframework:windowActionBarOverlay
         */
         public static int Theme_windowActionBarOverlay = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4563,11 +4562,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:windowActionModeOverlay
+          @attr name com.android.tedframework:windowActionModeOverlay
         */
         public static int Theme_windowActionModeOverlay = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4582,11 +4581,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:windowFixedHeightMajor
+          @attr name com.android.tedframework:windowFixedHeightMajor
         */
         public static int Theme_windowFixedHeightMajor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4601,11 +4600,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:windowFixedHeightMinor
+          @attr name com.android.tedframework:windowFixedHeightMinor
         */
         public static int Theme_windowFixedHeightMinor = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4620,11 +4619,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:windowFixedWidthMajor
+          @attr name com.android.tedframework:windowFixedWidthMajor
         */
         public static int Theme_windowFixedWidthMajor = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -4639,7 +4638,7 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:windowFixedWidthMinor
+          @attr name com.android.tedframework:windowFixedWidthMinor
         */
         public static int Theme_windowFixedWidthMinor = 6;
         /** Attributes that can be used with a Toolbar.
@@ -4650,26 +4649,26 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.android.TedFramework:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.android.TedFramework:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.android.TedFramework:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.android.TedFramework:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.android.TedFramework:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.android.TedFramework:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.android.TedFramework:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.android.TedFramework:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.android.TedFramework:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.android.TedFramework:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.android.TedFramework:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.android.TedFramework:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_theme com.android.TedFramework:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.android.TedFramework:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.android.TedFramework:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.android.TedFramework:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.android.TedFramework:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.android.TedFramework:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.android.TedFramework:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.android.TedFramework:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.android.tedframework:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.android.tedframework:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.android.tedframework:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.android.tedframework:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.android.tedframework:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.android.tedframework:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.android.tedframework:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.android.tedframework:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.android.tedframework:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.android.tedframework:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.android.tedframework:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.android.tedframework:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_theme com.android.tedframework:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.android.tedframework:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.android.tedframework:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.android.tedframework:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.android.tedframework:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.android.tedframework:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.android.tedframework:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.android.tedframework:titleTextAppearance}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -4715,7 +4714,7 @@ containing a value of this type.
         */
         public static int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4725,21 +4724,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:collapseContentDescription
+          @attr name com.android.tedframework:collapseContentDescription
         */
         public static int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:collapseIcon
+          @attr name com.android.tedframework:collapseIcon
         */
         public static int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4751,11 +4750,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:contentInsetEnd
+          @attr name com.android.tedframework:contentInsetEnd
         */
         public static int Toolbar_contentInsetEnd = 5;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4767,11 +4766,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:contentInsetLeft
+          @attr name com.android.tedframework:contentInsetLeft
         */
         public static int Toolbar_contentInsetLeft = 6;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4783,11 +4782,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:contentInsetRight
+          @attr name com.android.tedframework:contentInsetRight
         */
         public static int Toolbar_contentInsetRight = 7;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4799,11 +4798,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:contentInsetStart
+          @attr name com.android.tedframework:contentInsetStart
         */
         public static int Toolbar_contentInsetStart = 4;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4815,11 +4814,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:maxButtonHeight
+          @attr name com.android.tedframework:maxButtonHeight
         */
         public static int Toolbar_maxButtonHeight = 16;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4829,31 +4828,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:navigationContentDescription
+          @attr name com.android.tedframework:navigationContentDescription
         */
         public static int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:navigationIcon
+          @attr name com.android.tedframework:navigationIcon
         */
         public static int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:popupTheme
+          @attr name com.android.tedframework:popupTheme
         */
         public static int Toolbar_popupTheme = 8;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4863,31 +4862,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:subtitle
+          @attr name com.android.tedframework:subtitle
         */
         public static int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:subtitleTextAppearance
+          @attr name com.android.tedframework:subtitleTextAppearance
         */
         public static int Toolbar_subtitleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#theme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:theme
+          @attr name com.android.tedframework:theme
         */
         public static int Toolbar_theme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#title}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4897,11 +4896,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:title
+          @attr name com.android.tedframework:title
         */
         public static int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4913,11 +4912,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:titleMarginBottom
+          @attr name com.android.tedframework:titleMarginBottom
         */
         public static int Toolbar_titleMarginBottom = 15;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4929,11 +4928,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:titleMarginEnd
+          @attr name com.android.tedframework:titleMarginEnd
         */
         public static int Toolbar_titleMarginEnd = 13;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4945,11 +4944,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:titleMarginStart
+          @attr name com.android.tedframework:titleMarginStart
         */
         public static int Toolbar_titleMarginStart = 12;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4961,11 +4960,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:titleMarginTop
+          @attr name com.android.tedframework:titleMarginTop
         */
         public static int Toolbar_titleMarginTop = 14;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -4977,17 +4976,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:titleMargins
+          @attr name com.android.tedframework:titleMargins
         */
         public static int Toolbar_titleMargins = 11;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.android.TedFramework:titleTextAppearance
+          @attr name com.android.tedframework:titleTextAppearance
         */
         public static int Toolbar_titleTextAppearance = 9;
         /** Attributes that can be used with a View.
@@ -4997,8 +4996,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.android.TedFramework:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.android.TedFramework:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.android.tedframework:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.android.tedframework:paddingStart}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_paddingEnd
@@ -5014,7 +5013,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int View_android_focusable = 0;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -5026,11 +5025,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:paddingEnd
+          @attr name com.android.tedframework:paddingEnd
         */
         public static int View_paddingEnd = 2;
         /**
-          <p>This symbol is the offset where the {@link com.android.TedFramework.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.android.tedframework.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -5042,7 +5041,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.android.TedFramework:paddingStart
+          @attr name com.android.tedframework:paddingStart
         */
         public static int View_paddingStart = 1;
         /** Attributes that can be used with a ViewStubCompat.

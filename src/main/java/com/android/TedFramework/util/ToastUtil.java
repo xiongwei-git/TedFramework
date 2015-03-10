@@ -1,4 +1,4 @@
-package com.android.TedFramework.util;
+package com.android.tedframework.Util;
 
 import android.content.Context;
 import android.view.Gravity;

@@ -1,7 +1,7 @@
-package com.android.TedFramework.util;
+package com.android.tedframework.Util;
 
 import android.util.Log;
-import com.android.TedFramework.app.AppConfig;
+import com.android.tedframework.App.AppConfig;
 
 /**
  * Created by Ted on 14-8-4.
